@@ -76,21 +76,21 @@ input{
   
   input[value="AC"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
   input[value="CE"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
-  input[value="%"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
-  input[value="/"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
+  input[value="Envoyer"]{ font-size: 35px;font-family: 'Lato', sans-serif; }
+  input[value="/"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
   input[value="7"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
   input[value="8"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
-  input[value="9"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
-  input[value="*"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
+  input[value="9"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
+  input[value="*"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
   input[value="4"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
-  input[value="5"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
-  input[value="6"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
-  input[value="-"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
-  input[value="1"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
+  input[value="5"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
+  input[value="6"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
+  input[value="-"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
+  input[value="1"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
   input[value="2"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
-  input[value="3"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
-  input[value="+"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
+  input[value="3"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
+  input[value="+"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
   input[value="0"]{ font-size: 50px;font-family: 'Lato', sans-serif; }
-  input[value="1"]{ font-size: 50px; font-family: 'Lato', sans-serif;}
-  input[value="."]{ font-size: 50px; font-family: 'Lato', sans-serif;}
+  input[value="1"]{ font-size: 50px;font-family: 'Lato', sans-serif;}
+  input[value="."]{ font-size: 50px;font-family: 'Lato', sans-serif;}
   input[value="="]{ font-size: 50px;font-family: 'Lato', sans-serif; }
