@@ -24,3 +24,17 @@ input= input.replace(input.slice(-1), "");
  document.getElementById("output").innerHTML = input;
 }
 
+//opération
+
+var d = document.getElementById('operation');
+d.innerHTML = "";
+d.innerHTML = nb_aleatoire1() + "x" + nb_aleatoire2();
+
+function nb_aleatoire1() {
+    return Math.floor(Math.random() * 10) + 1;
+}
+
+function nb_aleatoire2() {
+  return Math.floor(Math.random() * 10) + 1;
+}
+
